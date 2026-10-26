@@ -1,4 +1,3 @@
-package assignment;
 
 public class Ass_10_TypesOfVariales {
 	/*Local variable- Inside Method, No concept of static or non static, access by name
